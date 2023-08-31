@@ -1,0 +1,2 @@
+# CurseOfFlesh
+my first javamod
